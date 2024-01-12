@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 I'm Back, Sooyeon(Soo).
+I have bachelor degree in Statistics Information and Manegement.
+Currently I'm learning Python.
+
+📫If you have any query, kindly reach me at Sooyeon.back12@gmail.com
+
 <!--
 **SooyeonBack/SooyeonBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
